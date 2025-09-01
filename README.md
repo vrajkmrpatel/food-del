@@ -88,19 +88,6 @@ PORT=5000
 
 ---
 
-## 🖼️ Image Uploads
-
-- Uses Multer for product image uploads
-- Uploaded images are stored in `/backend/uploads`
-
----
-
-## 📸 Screenshots
-
-_Add screenshots of the homepage, cart, login page, and order page here if available._
-
----
-
 ## 📦 Future Improvements
 
 - Order analytics
